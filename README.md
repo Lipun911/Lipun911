@@ -5,17 +5,19 @@
 Passionate about cybersecurity, incident response, and network security. I specialize in threat detection, mitigation, and vulnerability management. With hands-on experience in security audits, DDoS mitigation, and incident response, I aim to enhance security postures and protect digital assets.
 
 ## 🔧 Technical Skills
-- **Security Tools:** SIEM (Splunk, Chronicle), EDR, IDS/IPS  
-- **Networking:** TCP/IP, Firewalls, VPNs, Wireshark  
+- **Security Tools:** Splunk, Wireshark, Nmap, Metasploit,  Nessus, OpenVAS, Burp suite, VirtualBox, GitHub
+- **Security Technologies:** SIEM, IDS/IPS, EDR/XDR, Firewalls, DLP, Vulnerability Management, Incident Response  
+- **Networking:** TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs  
 - **Operating Systems:** Windows & Linux (Ubuntu, Kali)  
 - **Scripting & Automation:** Python, Bash, SQL  
-- **Threat Intelligence:** MITRE ATT&CK, OSINT, CTI fundamentals  
-- **Vulnerability Management:** CVE analysis, patching, Nessus, OpenVAS  
+- **Frameworks and Threat Intelligence:** MITRE ATT&CK, OSINT, CTI fundamentals, OWASP Top 10, NIST, CIS, ISO 27001  
+ 
 - **Compliance & Frameworks:** NIST, CIS, ISO 27001, MITRE ATT&CK  
 
 ## 🏆 Certifications
 - Google Cybersecurity Professional Certificate (2024)  
-- CompTIA Security+  
+- CompTIA Security+ SY0-701
+- TryHackme (Pre Security, Cyber security 101)
 
 ## 🚀 Projects
 ### 🔍 Security Audit – Botium Toys
