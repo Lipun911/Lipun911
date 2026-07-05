@@ -11,8 +11,6 @@ Passionate about cybersecurity, incident response, and network security. I speci
 - **Operating Systems:** Windows & Linux (Ubuntu, Kali)  
 - **Scripting & Automation:** Python, Bash, SQL  
 - **Frameworks and Threat Intelligence:** MITRE ATT&CK, OSINT, CTI fundamentals, OWASP Top 10, NIST, CIS, ISO 27001  
- 
-- **Compliance & Frameworks:** NIST, CIS, ISO 27001, MITRE ATT&CK  
 
 ## 🏆 Certifications
 - Google Cybersecurity Professional Certificate (2024)  
