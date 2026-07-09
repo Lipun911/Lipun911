@@ -18,10 +18,12 @@ Passionate about cybersecurity, incident response, and network security. I speci
 - TryHackme (Pre Security, Cyber security 101)
 
 ## 🚀 Projects
-### 🔍 Security Audit – Botium Toys
-- Identified 18 security gaps in user access controls & firewall policies.  
-- Implemented MFA & RBAC, improving compliance by 69%.  
-- Created an audit report aligned with PCI DSS, GDPR, and SOC 2.  
+
+### 🔍 IT Security Audit & Compliance Gap Analysis
+
+* **Audit Overview:** Evaluated the administrative, technical, and physical security controls of a fictional US business (Botium Toys) to assess system resilience and adherence to the NIST CSF.
+* **Vulnerability & Compliance Analysis:** Identified critical vulnerabilities, calculating a high risk score of 8/10 due to a lack of proper asset management and non-compliance with PCI DSS, GDPR, and SOC standards. 
+* **Remediation Strategy:** Delivered actionable recommendations to stakeholders, prioritizing the implementation of disaster recovery plans, Separation of Duties, and system encryption to fortify organizational security.  
 
 ### 🌐 DDoS Attack Mitigation – Southridge Video
 - Investigated & mitigated a DDoS attack, reducing attack impact by 35%.  
